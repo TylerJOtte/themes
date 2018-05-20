@@ -1,6 +1,6 @@
 # Themes
 
-A continously expanding collection of IDE color themes.
+A continuously expanding collection of IDE color themes.
 
 ## Getting Started
 
