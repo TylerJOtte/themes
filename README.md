@@ -1,4 +1,4 @@
-# THEMES
+# Themes
 
 A continously expanding collection of IDE color themes.
 
@@ -34,5 +34,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements
 
 * [PurpleBooth](https://gist.github.com/PurpleBooth/) | Documentation guidance.
-* [ChooseALicense](https://choosealicense.com) | Liscense guidance.
+* [ChooseALicense](https://choosealicense.com) | License guidance.
 * [GitHub Help](https://help.github.com) | Reference source.
