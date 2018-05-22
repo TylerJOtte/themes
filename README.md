@@ -36,3 +36,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 * [PurpleBooth](https://gist.github.com/PurpleBooth/) | Documentation guidance.
 * [ChooseALicense](https://choosealicense.com) | License guidance.
 * [GitHub Help](https://help.github.com) | Reference source.
+* [Octocat](https://gist.github.com/octocat/9257657) | Gitignore recommendations.
