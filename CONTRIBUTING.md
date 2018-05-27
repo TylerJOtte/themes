@@ -5,9 +5,9 @@ Thanks for stopping by!
 
 The following is a set of guidelines on how to contribute to this project in alignment with its goals. Use your best judgement, and don't hesitate to reach out with any questions.
 
----
+
 ## Table of Contents
----
+
 1. [Code of Conduct](#code-of-conduct)
 2. [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
@@ -20,90 +20,68 @@ The following is a set of guidelines on how to contribute to this project in ali
   * [Issue & Pull Request Labels](#issue-&-pull-request-labels)
 
 ---
-## Code of Conduct
+### Code of Conduct
 ---
 
 This project and all its participants are governed by the [code of conduct](/CODE_OF_CONDUCT.md). All engaging parties are expected to conform to the policies contained within it. Please report acts in non-compliance of the code's stated standards.
 
 ---
-## How Can I Contribute
+### How Can I Contribute
 ---
 
-### Reporting Bugs
-### Requesting Features
-### Your First Code Contribution
-### Pull Requests
-
----
-## Style guides
----
-
-### Documentation Style Guides
-
----
-## Additional notes
----
-
-### Issue & Pull Request Labels
-
-
-<a href="project-purpose"></a>
-### Project Purpose
-
-This project is dedicated to sharing custom color themes that I've designed with others:
-
-* To use as additional designs in their preferred IDE
-* And/or clone & modify for their own purposes
-
-<a href="project-purpose"></a>
-### Contribution Guidelines
-
-I would be immensely grateful for contributions pertaining to [Reporting Bugs](#reporting-bugs) & proposing [Feature Requests](#feature-requests).
-
-To align with the [Project Purpose](#project-purpose) mentioned in previous section, the project is **_NOT_** dedicated to becoming a collection of themes from external sources. Please do not submit color themes (I'm sure they're top-notch designs though!).
-
-Thank you in advance for taking the time to submit your contributions!
-
-<a href="reporting-bugs"></a>
 #### Reporting Bugs
 
-Well, no one is perfect...
+Well, no one is perfect... :hushed: If you find a bug, I want to know about it; let's take care of that sucker!
 
-This project tracks bugs as [GitHub Issues](https://guides.github.com/features/issues/). Follow the [Submitting An Issue](#submitting-an-issue) process described below to report the bug.
+##### Before Submitting A Bug Report
 
-<a href="feature-requests"></a>
-#### Feature Requests
+Check the [issue list](https://github.com/TylerJOtte/themes/issues) to see if a respective report already exists. If there's a matching *open* entry, do not open a new issue. Add a comment to the existing issue instead. If there's a matching *closed* entry, open a new issue, and include a link to the closed entry.
 
-Enhancements suggested to improve the project are welcome.
+##### Submitting A Bug Report
 
-Feature requests - like bugs - are tracked as [GitHub Issues](https://guides.github.com/features/issues). Follow the same process for [Submitting An Issue](#submitting-an-issue) as a bug report for requesting the feature.
+**DO NOT** open an issue for security related bugs. Follow the [security policy](#security) instead. All other bugs are tracked as [GitHub Issues](https://guides.github.com/features/issues/). Open up a new [issue]((https://github.com/TylerJOtte/themes/issues), and fill out its containing form in sufficient detail. Thank you for your contribution!
 
-<a href="submitting-an-issue"></a>
-#### Submitting An Issue
+#### Requesting Features
 
-All bugs and feature requests are tracked as [GitHub Issues](https://guides.github.com/features/issues/). Follow the steps below to submit the issue.
+Do you have an idea that will enhance the project? Let me know!
 
-<a href="before-submitting-an-issue"></a>
-##### 1) Before Submitting An Issue
+##### Before Submitting A Feature Request
 
-* Check the repo's [Issues](https://github.com/TylerJOtte/themes/issues) section to verify that it has not already been reported.
-* If there is a matching issue already open, submit the feedback as an additional comment to the issue's current thread.
-* If there is a matching issue but it is closed, proceed to step two, and include a link to the original closed issue within the body of the new issue.
+Check the [issue list](https://github.com/TylerJOtte/themes/issues) to see if a respective report already exists. If there's a matching *open* entry, do not open a new issue. Add a comment to the existing issue instead. If there's a matching *closed* entry, open a new issue, and include a link to the closed entry.
 
-<a href="how-to-submit-an-issue"></a>
-##### 2) How To Submit An Issue
+##### Submitting A Feature Request
 
-  * Ensure that the [previous submission step](#before-submitting-an-issue) has been followed.  
-  * Open up a new issue for the appropriate issue (Bug Report or Feature Request).
-  * Fill out the report template that is automatically populated within it.
+Feature requests are tracked as [GitHub Issues](https://guides.github.com/features/issues). Open up a new [issue,]((https://github.com/TylerJOtte/themes/issues) and fill out its containing form in sufficient detail. Thank you for your contribution!
 
-Thank you in advance for taking the time to submit the issue!
+#### Your First Code Contribution
 
-<a href="beginners"></a>
-### Beginners
+Thank you for your interest in contributing to this project! The most helpful  tasks are:
 
-New to the whole contributing process on GitHub? No problem! Here are are some great resources below to help get you started.
+* [Reporting bugs](#bug-reports)
+* [Requesting features](#feature-requests)
+* [Updating documentation](#pull-requests)
 
-* [How To Make A Pull Request](http://makeapullrequest.com)
+##### Beginners
+
+Are you new to contributing on GitHub? No problem, we were all new once! Here are are some helpful resources to get you started.
+
+* [First Time Contributers](https://www.firsttimersonly.com)
 * [How To Contribute To Open Source Projects](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+* [How To Make A Pull Request](http://makeapullrequest.com)
 * [GitHub Guides](https://guides.github.com)
+
+#### Pull Requests
+
+---
+### Style guides
+---
+
+#### Documentation Style Guides
+
+
+
+---
+### Additional notes
+---
+
+#### Issue & Pull Request Labels
