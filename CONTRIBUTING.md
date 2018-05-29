@@ -15,7 +15,8 @@ The following is a set of guidelines on how to contribute to this project in ali
   * [Your First Code Contribution](#your-first-code-contribution)
   * [Pull Requests](#pull-requests)
 3. [Style Guides](#style-guides)
-  * [Documentation Style Guide](#documentation-style-guide)
+  * [Git Commit Messages Style Guidelines](#git-commit-message-style-guidelines)
+  * [Documentation Style Guidelines](#documentation-style-guidelines)
 4. [Additional Notes](#additional-notes)
   * [Issue & Pull Request Labels](#issue-&-pull-request-labels)
 
@@ -199,12 +200,79 @@ All Pull Requests are processed through a review and a subsequent approval stage
 You may notice that GitHub displays the Pull Request as `closed` now. Fret thee not! Review the branch that the Pull Request was raised against (most likely `master`). There is commit with the name of none other than yours truly on it. :bowtie: Congratulations, and thank you for your contribution!
 
 ---
-### Style guides
+### Style Guides
 ---
 
-#### Documentation Style Guides
+#### Git Commit Messages Style Guidelines
 
+###### Subject Line
 
+* Provide a brief description of the change.
+* Use the present imperative (e.g., "Fix typo...", not "Fixed typo...").
+* Start first word with a capital letter.
+* Do not end line with a period.
+* Limit to 50 characters or less.
+* A properly formed subject can always complete the following statement logically. <br /><br />
+ > If applied, this commit will <*your subject line here*>
+
+###### Body
+
+* Provide details on what's being changed, and why it's being changed including
+
+  - The way things worked before the change, and what was wrong with that.
+  - The way it works now, and why you decided to solve it the way you did. <br /><br />
+* Only include how it's being changed if absolutely necessary.
+* Do not assume the reviewer is familiar with the original problem.
+* Do not assume the code is self-evident or self-documenting.
+* Do not include patch-set specific comments.
+* Provide one blank line between the subject line and the body.
+* Capitalize the start of each paragraph.
+* Wrap text to 72 characters or less.
+* Bullet points (hyphens or asterisks) can also be used with a hanging indent.
+
+###### Last Line
+
+* Include a reference here if your patch fixes an open issue.
+
+  - Use the `Fixes:` with the full URL prefix for bugs.
+  - Use the `Refs:` prefix with the full URL for other references.
+
+* Provide one blank line between the body and the reference(s).
+
+###### Example
+
+```text
+Subject line explains change in <= 50 characters
+
+Body elaborates on the change, if necessary. Keep it wrapped to 72
+characters or less. The blank line between the subject line and the body
+is vital, unless the body is omitted altogether. Tools, such as rebase,
+can become confused if execute the two sections together.
+
+Use the present imperative for the subject line. For example, write "Fix
+bug" instead of "Fixed bug". This provides consistent formatting with
+commit messages produced by git commands, such as git merge and git
+revert. Every additional paragraph is separated by a blank line.
+
+- Bullet points (hyphens or asterisks) can also be used
+- Use a hanging indent  
+
+Fixes: https://github.com/TylerJOtte/themes/issues/17
+Refs: https://github.com/HappenApps/Quiver/wiki
+```
+#### Documentation Style Guidelines
+
+###### General
+
+* Use [Markdown](https://daringfireball.net/projects/markdown/)
+
+###### Code Blocks
+
+* Use language-aware fences (e.g., \`\`\`java).
+* Use semi-complete code to illustrate the example, not a complete program.
+* Use PascalCase for constructor references.
+* Use camelCase for instance references.
+* Separate operators & operands with spaces between them (e.g., a = b, not a=b).
 
 ---
 ### Additional notes
