@@ -1,60 +1,59 @@
-
-# Contributing
+# <a href="contributing">Contributing</a>
 
 Thanks for stopping by!
 
-The following is a set of guidelines on how to contribute to this project in alignment with its goals. Use your best judgement, and don't hesitate to reach out with any questions.
+The following sections detail how to contribute to this project in alignment with its goals. Use your best judgement, and don't hesitate to reach out with any questions.
 
+# <a href="table-of-contents">Table of Contents</a>
 
-## Table of Contents
+[**Code of Conduct**](#code-of-conduct)
 
-1. [Code of Conduct](#code-of-conduct)
-2. [How Can I Contribute?](#how-can-i-contribute)
-  * [Reporting Bugs](#reporting-bugs)
-  * [Requesting Features](#requesting-features)
-  * [Your First Code Contribution](#your-first-code-contribution)
-  * [Pull Requests](#pull-requests)
-3. [Style Guides](#style-guides)
-  * [Git Commit Messages Style Guidelines](#git-commit-message-style-guidelines)
-  * [Documentation Style Guidelines](#documentation-style-guidelines)
-4. [Additional Notes](#additional-notes)
-  * [Issue & Pull Request Labels](#issue-&-pull-request-labels)
+[**How Can I Contribute?**](#how-can-i-contribute)
 
----
-### Code of Conduct
----
+* [Reporting Bugs](#reporting-bugs)
+* [Requesting Features](#requesting-features)
+* [Your First Code Contribution](#your-first-code-contribution)
+* [Pull Requests](#pull-requests)
 
-This project and all its participants are governed by the [code of conduct](/CODE_OF_CONDUCT.md). All engaging parties are expected to conform to the policies contained within it. Please report acts in non-compliance of the code's stated standards.
+[**Style Guides**](#style-guides)
 
----
-### How Can I Contribute
----
+* [Git Commit Messages Style Guidelines](#git-commit-message-style-guidelines)
+* [Documentation Style Guidelines](#documentation-style-guidelines)
 
-#### Reporting Bugs
+[**Additional Notes**](#additional-notes)
+* [Issue & Pull Request Labels](#issue-&-pull-request-labels)
+
+# <a href="code-of-conduct">Code of Conduct</a>
+
+This project and all its participants are governed by the [code of conduct](/CODE_OF_CONDUCT.md). All engaging parties are expected to conform to its policies. Please report acts of non-compliance.
+
+# <a href="how-can-i-contribute">How Can I Contribute</a>
+
+## <a href="reporting-bugs">Reporting Bugs</a>
 
 Well, no one is perfect... :hushed: If you find a bug, I want to know about it; let's take care of that sucker!
 
-##### Before Submitting A Bug Report
+### Before Submitting A Bug Report
 
 Check the [issue list](https://github.com/TylerJOtte/themes/issues) to see if a respective report already exists. If there's a matching *open* entry, do not open a new issue. Add a comment to the existing issue instead. If there's a matching *closed* entry, open a new issue, and include a link to the closed entry.
 
-##### Submitting A Bug Report
+### Submitting A Bug Report
 
 **DO NOT** open an issue for security related bugs. Follow the [security policy](#security) instead. All other bugs are tracked as [GitHub Issues](https://guides.github.com/features/issues/). Open up a new [issue]((https://github.com/TylerJOtte/themes/issues), and fill out its containing form in sufficient detail. Thank you for your contribution!
 
-#### Requesting Features
+## <a href="requesting-features">Requesting Features</a>
 
 Do you have an idea that will enhance the project? Let me know!
 
-##### Before Submitting A Feature Request
+### Before Submitting A Feature Request
 
 Check the [issue list](https://github.com/TylerJOtte/themes/issues) to see if a respective report already exists. If there's a matching *open* entry, do not open a new issue. Add a comment to the existing issue instead. If there's a matching *closed* entry, open a new issue, and include a link to the closed entry.
 
-##### Submitting A Feature Request
+### Submitting A Feature Request
 
 Feature requests are tracked as [GitHub Issues](https://guides.github.com/features/issues). Open up a new [issue,]((https://github.com/TylerJOtte/themes/issues) and fill out its containing form in sufficient detail. Thank you for your contribution!
 
-#### Your First Code Contribution
+## <a href="your-first-code-contribution">Your First Code Contribution</a>
 
 Thank you for your interest in contributing to this project! The most helpful  tasks are:
 
@@ -62,9 +61,7 @@ Thank you for your interest in contributing to this project! The most helpful  t
 * [Requesting features](#feature-requests)
 * [Updating documentation](#pull-requests)
 
-**Note**: Please do not submit new color themes. This is outside the project's goal. Instead, clone and modify to your heart's delight!
-
-##### Beginners
+### Beginners
 
 New to contributing on GitHub? No problem, we were all new once! Here are are some helpful resources to get you started.
 
@@ -73,11 +70,11 @@ New to contributing on GitHub? No problem, we were all new once! Here are are so
 * [How To Make A Pull Request](http://makeapullrequest.com)
 * [GitHub Guides](https://guides.github.com)
 
-#### Pull Requests
+## <a href="pull-requests">Pull Requests</a>
 
 Are you interested in updating the documentation? You're in the right spot!
 
-##### Examples
+### Examples
 
 * Spelling/grammar changes
 * Type corrections, white space, & formatting changes
@@ -85,9 +82,9 @@ Are you interested in updating the documentation? You're in the right spot!
 * Translations
 * Missing sections, and/or documentation
 
-##### Steps
+### Steps
 
-###### 1) Fork
+#### 1) Fork
 
 [Fork](https://help.github.com/articles/fork-a-repo/) the [project](https://github.com/TylerJOtte/themes) on GitHub. Then, clone your fork locally.
 
@@ -114,7 +111,8 @@ $ git config user.email "username@domain.com"
 
 Lastly, verify that your [GitHub email list](https://github.com/settings/emails) contains this local email. This enables your commits to properly associate with your account, resulting in a promotion to *Contributor* after your first commit executes.
 
-###### 2) Branch
+---
+#### 2) Branch
 
 As a best practice, perform changes in a local feature branch. Create this branch directly off the `master` branch. Use a descriptive title that starts with the issue # (where 17 is the issue # in example below).
 
@@ -122,11 +120,13 @@ As a best practice, perform changes in a local feature branch. Create this branc
 $ git checkout -b 17-descriptive-branch-title -t upstream/master
 ```
 
-###### 3) Execute
+---
+#### 3) Execute
 
 Execute your changes within the local feature branch, and ensure the [documentation style guidelines](#documentation-style-guide) are followed.
 
-###### 4) Commit
+---
+#### 4) Commit
 
 As a best practice, keep your changes as logically grouped as possible within individual commits. A Pull Request has no max-commit limit. This also makes it easier for contributors to review commits.
 
@@ -141,7 +141,8 @@ If new to contributing, do your best to conform to these guidelines, but don't f
 
 Please note that multiple commits are often [squashed](#commit-squashing) when they're landed.
 
-###### 5) Rebase
+---
+#### 5) Rebase
 
 As a best practice after committing changes, use `git rebase` (not `git merge`) to sync your changes with the primary repo.
 
@@ -152,7 +153,8 @@ $ git rebase upstream/master
 
 This ensures that your local feature branch has all the recent changes from `TylerJOtte/themes/master`.
 
-###### 6) Push
+---
+#### 6) Push
 
 Once you are certain your commits ready, push your local feature branch to your fork on GitHub.
 
@@ -160,11 +162,13 @@ Once you are certain your commits ready, push your local feature branch to your 
 $ git push origin 17-descriptive-branch-title
 ```
 
-###### 7) Pull Request
+---
+#### 7) Pull Request
 
 From within GitHub, open up a new Pull Request, and fill out its containing form in sufficient detail. Please include screenshots, and animated GIFs whenever possible. Do not include issue #s in the title. Thank you for your contribution!
 
-###### 8) Update
+---
+#### 8) Update
 
 You will most likely receive feedback and/or change requests to your Pull Request. Don't be discouraged by this! Some Pull Requests are approved immediately, while others require further discussion. This is a vital step to ensure that changes are necessary and correct.
 
@@ -193,34 +197,32 @@ $ git commit --amend
 $ git push --force-with-lease origin feature/branch
 ```
 
-###### 9) Landing
+---
+#### 9) Landing
 
 All Pull Requests are processed through a review and a subsequent approval stage. If the Pull Request is approved, it will then be merged. When it is landed, a comment will be posted to its respective page detailing the commit(s) it landed.
 
-You may notice that GitHub displays the Pull Request as `closed` now. Fret thee not! Review the branch that the Pull Request was raised against (most likely `master`). There is commit with the name of none other than yours truly on it. :bowtie: Congratulations, and thank you for your contribution!
+You may notice that GitHub displays the Pull Request as `closed` now. Fret thee not! Review the branch that the Pull Request was raised against (most likely `master`). There's a commit with the name of none other than yours truly on it. :bowtie: Congratulations, and thank you for your contribution!
 
----
-### Style Guides
----
+# <a href="style-guides">Style Guides</a>
 
-#### Git Commit Messages Style Guidelines
+## <a href="git-commit-messages-style-guidelines">Git Commit Messages Style Guidelines</a>
 
-###### Subject Line
+### Subject Line
 
 * Provide a brief description of the change.
 * Use the present imperative (e.g., "Fix typo...", not "Fixed typo...").
 * Start first word with a capital letter.
 * Do not end line with a period.
 * Limit to 50 characters or less.
-* A properly formed subject can always complete the following statement logically. <br /><br />
- > If applied, this commit will <*your subject line here*>
+* A properly formed subject can always complete the following statement logically.
+  - If applied, this commit will <*your subject line here*>
 
-###### Body
+### Body
 
 * Provide details on what's being changed, and why it's being changed including
-
   - The way things worked before the change, and what was wrong with that.
-  - The way it works now, and why you decided to solve it the way you did. <br /><br />
+  - The way it works now, and why you decided to solve it the way you did.
 * Only include how it's being changed if absolutely necessary.
 * Do not assume the reviewer is familiar with the original problem.
 * Do not assume the code is self-evident or self-documenting.
@@ -230,7 +232,7 @@ You may notice that GitHub displays the Pull Request as `closed` now. Fret thee 
 * Wrap text to 72 characters or less.
 * Bullet points (hyphens or asterisks) can also be used with a hanging indent.
 
-###### Last Line
+### Last Line
 
 * Include a reference here if your patch fixes an open issue.
 
@@ -239,7 +241,7 @@ You may notice that GitHub displays the Pull Request as `closed` now. Fret thee 
 
 * Provide one blank line between the body and the reference(s).
 
-###### Example
+### Example
 
 ```text
 Subject line explains change in <= 50 characters
@@ -260,13 +262,14 @@ revert. Every additional paragraph is separated by a blank line.
 Fixes: https://github.com/TylerJOtte/themes/issues/17
 Refs: https://github.com/HappenApps/Quiver/wiki
 ```
-#### Documentation Style Guidelines
 
-###### General
+## <a href="documentation-style-guidelines">Documentation Style Guidelines</a>
+
+### General
 
 * Use [Markdown](https://daringfireball.net/projects/markdown/)
 
-###### Code Blocks
+### Code Blocks
 
 * Use language-aware fences (e.g., \`\`\`java).
 * Use semi-complete code to illustrate the example, not a complete program.
@@ -274,8 +277,40 @@ Refs: https://github.com/HappenApps/Quiver/wiki
 * Use camelCase for instance references.
 * Separate operators & operands with spaces between them (e.g., a = b, not a=b).
 
----
-### Additional notes
----
+# <a href="additional-notes">Additional notes</a>
 
-#### Issue & Pull Request Labels
+## <a href="issue-and-pull-request-labels">Issue & Pull Request Labels</a>
+
+The project's label nomenclature is listed in the tables below. Each issue and Pull Request requires a type, topic, and status label. An entry may have more than one label within a group. If you notice a missing label, please open an issue and submit the recommendation.
+
+### Type
+
+| Label                      | Description                                   |
+| -------------------------- | --------------------------------------------- |
+| `Type: Bug Report`         | Issue is a confirmed or probable bug.         |
+| `Type: Duplicate Entry`    | Issue is already open.                        |
+| `Type: Feature Request`    | Issue is a new or updated feature request.    |
+| `Type: Invalid Entry`      | Issue is not a valid type (e.g., user error). |
+| `Type: Maintenance Report` | Issue is not a bug or a feature request.      |
+| `Type: Project Inquiry`    | Issue is a question not of the other types.   |
+| `Type: Regression Report`  | Issue is a bug not present in past version.   |
+
+### Topic
+
+| Label                  | Description                                |
+| ---------------------- | ------------------------------------------ |
+| `Topic: Documentation` | Issue concerns documentation.              |
+| `Topic: Linux`         | Issue manifests in a Linux environment.    |
+| `Topic: Mac`           | Issue manifests in a Mac OS X environment. |
+| `Topic: Windows`       | Issue manifests in a Windows environment.  |
+
+### Status
+
+| Label                    | Description                                    |
+| ------------------------ | ---------------------------------------------- |
+| `Status: Abandoned`      | Issue will not be addressed at this time.      |
+| `Status: Blocked`        | Pull Request for issue stalled by other issue. |
+| `Status: Help Wanted`    | Issue needs help from community to solve.      |
+| `Status: In Progress`    | Pull Request for issue is being worked on.     |
+| `Status: Needs Review`   | Pull Request for issue is ready for review.    |
+| `Status: Needs Revision` | Pull Request for issue needs revision.         |
