@@ -22,6 +22,7 @@ The following sections detail how to contribute to this project in alignment wit
 
 [**Additional Notes**](#additional-notes)
 * [Issue & Pull Request Labels](#issue-&-pull-request-labels)
+* [Security Policies](#security-policies)
 
 # <a href="code-of-conduct">Code of Conduct</a>
 
@@ -39,7 +40,7 @@ Check the [issue list](https://github.com/TylerJOtte/themes/issues) to see if a 
 
 ### Submitting A Bug Report
 
-**DO NOT** open an issue for security related bugs. Follow the [security policy](#security) instead. All other bugs are tracked as [GitHub Issues](https://guides.github.com/features/issues/). Open up a new [issue]((https://github.com/TylerJOtte/themes/issues), and fill out its containing form in sufficient detail. Thank you for your contribution!
+**DO NOT** open an issue for security related bugs. Follow the [security policy](#reporting-security-related-bugs) instead. All other bugs are tracked as [GitHub Issues](https://guides.github.com/features/issues/). Open up a new [issue]((https://github.com/TylerJOtte/themes/issues), and fill out its containing form in sufficient detail. Thank you for your contribution!
 
 ## <a href="requesting-features">Requesting Features</a>
 
@@ -314,3 +315,19 @@ The project's label nomenclature is listed in the tables below. Each issue and P
 | `Status: In Progress`    | Pull Request for issue is being worked on.     |
 | `Status: Needs Review`   | Pull Request for issue is ready for review.    |
 | `Status: Needs Revision` | Pull Request for issue needs revision.         |
+
+## <a href="security-policies">Security Policies</a>
+
+### Reporting Security-Related Bugs
+
+**DO NOT** open an issue for security related bugs. Instead, email the project maintainer directly at Themes.Security@icloud.com.
+
+#### How do I know if my report contains a security-related bug?
+
+- [ ] Can you access an item that is not yours?
+- [ ] Can you access an item that you are not supposed to have access to?
+- [ ] Can you access an item that disables a feature for others?
+
+If you answered "yes" to any of the above questions, the report most likely contains a security-related bug. If you answered "no" to all questions, but you're still hesitant, please email the project maintainer directly at Themes.Security@icloud.com.
+
+All bugs are taken seriously; every effort will be made to address your report. Thank you for your contribution!
