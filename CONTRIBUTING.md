@@ -23,6 +23,8 @@ The following is a set of guidelines on how to contribute to this project in ali
 ## Code of Conduct
 ---
 
+This project and all its participants are governed by the [code of conduct](/CODE_OF_CONDUCT.md). All engaging parties are expected to conform to the policies contained within it. Please report acts in non-compliance of the code's stated standards.
+
 ---
 ## How Can I Contribute
 ---
