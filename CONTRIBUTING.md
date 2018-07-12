@@ -217,14 +217,14 @@ You may notice that GitHub displays the Pull Request as `closed` now. Fret thee 
 * Start first word with a capital letter.
 * Do not end line with a period.
 * Limit to 50 characters or less.
-* A properly formed subject can always complete the following statement logically.
+* A properly formed subject can always complete the following statement logically.<br /><br />
   - If applied, this commit will <*your subject line here*>
 
 ### Body
 
-* Provide details on what's being changed, and why it's being changed including
+* Provide details on what's being changed, and why it's being changed including <br /><br />
   - The way things worked before the change, and what was wrong with that.
-  - The way it works now, and why you decided to solve it the way you did.
+  - The way it works now, and why you decided to solve it the way you did.<br /><br />
 * Only include how it's being changed if absolutely necessary.
 * Do not assume the reviewer is familiar with the original problem.
 * Do not assume the code is self-evident or self-documenting.
