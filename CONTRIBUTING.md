@@ -296,6 +296,7 @@ The project's label nomenclature is listed in the tables below. Each issue and P
 | `Type: Maintenance Report` | Issue is not a bug or a feature request.      |
 | `Type: Project Inquiry`    | Issue is a question not of the other types.   |
 | `Type: Regression Report`  | Issue is a bug not present in past version.   |
+| `Type: Release`            | Pull Request for managing a release.          |
 
 ### Topic
 
@@ -304,6 +305,9 @@ The project's label nomenclature is listed in the tables below. Each issue and P
 | `Topic: Documentation` | Issue concerns documentation.              |
 | `Topic: Linux`         | Issue manifests in a Linux environment.    |
 | `Topic: Mac`           | Issue manifests in a Mac OS X environment. |
+| `Topic: Major`         | Release is not backwards compatible.       |
+| `Topic: Minor`         | Release is backwards compatible.           |
+| `Topic: Patch`         | Release is backwards compatible bug fixes. |
 | `Topic: Windows`       | Issue manifests in a Windows environment.  |
 
 ### Status
