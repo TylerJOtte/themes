@@ -13,7 +13,7 @@ A color theme collection for [Visual Studio](https://visualstudio.microsoft.com/
 5. Select the downloaded ***.theme*** file. 
 6. Voila! Enjoy.
 
-### [Contributing](/CONTRIBUTING.md)
+## [Contributing](/CONTRIBUTING.md)
 
 Please refer to the [contribution guidelines](/CONTRIBUTING.md) for details on how to contribute to this project.
 
