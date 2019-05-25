@@ -1,4 +1,6 @@
-﻿A color theme collection for [Visual Studio](https://visualstudio.microsoft.com/).
+﻿# Readme
+
+A color theme collection for [Visual Studio](https://visualstudio.microsoft.com/).
 
 ## Installation
 
