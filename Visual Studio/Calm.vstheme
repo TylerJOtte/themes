@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Calm" GUID="{73d2c4c2-80b4-43b6-90f8-c1113ecf324c}">
+  <Theme Name="Calm" GUID="{c7eee6b2-1a68-4bd0-b010-a32effbed030}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF002B36" />
@@ -3714,22 +3714,22 @@
         <Background Type="CT_RAW" Source="FF001419" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientMiddle">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandShelfHighlightGradientBegin">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandShelfHighlightGradientMiddle">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandShelfHighlightGradientEnd">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="DiagReportBackground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3837,16 +3837,16 @@
         <Background Type="CT_RAW" Source="72000000" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="EnvironmentBackgroundTexture1">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="EnvironmentBackgroundTexture2">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="ExtensionManagerStarHighlight1">
         <Background Type="CT_RAW" Source="FFFF8C00" />
@@ -4149,7 +4149,7 @@
         <Background Type="CT_RAW" Source="FF44646A" />
       </Color>
       <Color Name="StatusBarText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle1">
         <Background Type="CT_RAW" Source="FF096D82" />
@@ -4321,13 +4321,13 @@
         <Background Type="CT_RAW" Source="FF003C49" />
       </Color>
       <Color Name="CommandBarGradientBegin">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandBarGradientEnd">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandBarGradientMiddle">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="CommandBarHover">
         <Background Type="CT_RAW" Source="FF20454F" />
@@ -4441,13 +4441,13 @@
         <Background Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF021318" />
       </Color>
       <Color Name="FileTabBorder">
         <Background Type="CT_RAW" Source="FF001E26" />
@@ -4729,13 +4729,13 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TitleBarInactive">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TitleBarInactiveGradientBegin">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TitleBarInactiveGradientEnd">
-        <Background Type="CT_RAW" Source="FF001E26" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TitleBarInactiveText">
         <Background Type="CT_RAW" Source="FF839496" />
@@ -4771,7 +4771,7 @@
         <Background Type="CT_RAW" Source="FF002B36" />
       </Color>
       <Color Name="ToolWindowBorder">
-        <Background Type="CT_RAW" Source="FF003C49" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ToolWindowButtonDown">
         <Background Type="CT_RAW" Source="FF074957" />
@@ -5269,88 +5269,88 @@
         <Background Type="CT_RAW" Source="FFF30506" />
       </Color>
       <Color Name="MainWindowInactiveBorder">
-        <Background Type="CT_RAW" Source="FF2D535B" />
+        <Background Type="CT_RAW" Source="C70E7172" />
       </Color>
       <Color Name="MainWindowActiveCaption">
-        <Background Type="CT_RAW" Source="FF001E26" />
-        <Foreground Type="CT_RAW" Source="FF839496" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="MainWindowInactiveCaption">
-        <Background Type="CT_RAW" Source="FF001E26" />
-        <Foreground Type="CT_RAW" Source="FF44646A" />
+        <Background Type="CT_RAW" Source="38000000" />
+        <Foreground Type="CT_RAW" Source="53D2DFE7" />
       </Color>
       <Color Name="MainWindowButtonDownGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="MainWindowButtonInactiveBorder">
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="MainWindowButtonInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF44646A" />
+        <Background Type="CT_RAW" Source="53D2DFE7" />
       </Color>
       <Color Name="MainWindowButtonHoverInactive">
-        <Background Type="CT_RAW" Source="7220454F" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="MainWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="7220454F" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="MainWindowButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="MainWindowButtonActiveBorder">
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="MainWindowButtonActiveGlyph">
-        <Background Type="CT_RAW" Source="FF839496" />
+        <Background Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="MainWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="7220454F" />
+        <Background Type="CT_RAW" Source="FFB2A080" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="7220454F" />
+        <Background Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="MainWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF477786" />
+        <Background Type="CT_RAW" Source="FF045A6D" />
       </Color>
       <Color Name="MainWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF477786" />
+        <Background Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="StatusBarDefault">
-        <Background Type="CT_RAW" Source="FF001E26" />
-        <Foreground Type="CT_RAW" Source="FF839496" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="MainWindowActiveNoSolutionBorder">
-        <Background Type="CT_RAW" Source="FF477786" />
+        <Background Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF0E639C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFB2A080" />
+        <Foreground Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="StatusBarDebugging">
-        <Background Type="CT_RAW" Source="FFCB4B16" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
+        <Foreground Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="StatusBarNoSolution">
-        <Background Type="CT_RAW" Source="FF477786" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="FFB2A080" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
-        <Background Type="CT_RAW" Source="FFCB4B16" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF477786" />
+        <Background Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
-        <Background Type="CT_RAW" Source="7F000000" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="MainWindowResizeGripTexture1">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="VerticalResizeGripEnd">
         <Background Type="CT_RAW" Source="FF001E26" />
@@ -5383,28 +5383,28 @@
         <Background Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="MainWindowInactiveIconNoSolution">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="C70E7172" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="MainWindowActiveIconBuilding">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFB2A080" />
       </Color>
       <Color Name="MainWindowActiveIconDebugging">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFF8000" />
       </Color>
       <Color Name="MainWindowActiveIconNoSolution">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF0E7172" />
       </Color>
       <Color Name="MainWindowInactiveIconDefault">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="C70E7172" />
       </Color>
       <Color Name="MainWindowInactiveIconBuilding">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="9FB2A080" />
       </Color>
       <Color Name="MainWindowInactiveIconDebugging">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="7EFF8000" />
       </Color>
       <Color Name="RaftedWindowInactiveIconNoSolution">
         <Background Type="CT_RAW" Source="66FFFFFF" />
@@ -5466,7 +5466,7 @@
       </Color>
       <Color Name="StatusBarHighlight">
         <Background Type="CT_RAW" Source="4C000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFD2DFE7" />
       </Color>
       <Color Name="ScrollBarThumbDisabled">
         <Background Type="CT_RAW" Source="FF002731" />
